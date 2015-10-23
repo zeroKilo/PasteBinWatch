@@ -1,0 +1,12 @@
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\bin\Debug\PasteBinWatch.exe.config
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\bin\Debug\PasteBinWatch.exe
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\bin\Debug\PasteBinWatch.pdb
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.csprojResolveAssemblyReference.cache
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.Form1.resources
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.Properties.Resources.resources
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.csproj.GenerateResource.Cache
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.exe
+D:\CODE\c#\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.pdb
+D:\CODE\GitHub\PasteBinWatch\PasteBinWatch\bin\Debug\PasteBinWatch.exe.config
+D:\CODE\GitHub\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.exe
+D:\CODE\GitHub\PasteBinWatch\PasteBinWatch\obj\Debug\PasteBinWatch.pdb
